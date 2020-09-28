@@ -8,12 +8,21 @@
  ***********************************/
  
 /**
-   Farmer John 的 N 头奶牛（1≤N≤100）站成一排。对于每一个 1≤i≤N，从左往右数第 i 头奶牛的编号为 i。
-   Farmer John 想到了一个新的奶牛晨练方案。他让她们重复以下包含两个步骤的过程 K（1≤K≤109）次：
+ * Farmer John has come up with a new morning exercise routine for the cows. He tells them to repeat the following two-step process exactly K (1≤K≤109) times:
 
-   当前从左往右数在位置 A1…A2 的奶牛序列反转她们的顺序（1≤A1<A2≤N）。
-   然后，在当前从左往右数在位置 B1…B2 的奶牛序列反转她们的顺序（1≤B1<B2≤N）。
-   当奶牛们重复这一过程 K 次后，请对每一个 1≤i≤N 输出从左往右数第 i 头奶牛的编号。
+    The sequence of cows currently in positions A1…A2 from the left reverse their order (1≤A1<A2≤N).
+    Then, the sequence of cows currently in positions B1…B2 from the left reverse their order (1≤B1<B2≤N).
+    After the cows have repeated this process exactly K times, please output the label of the ith cow from the left for each 1≤i≤N.
+
+    SCORING:
+    Test cases 2-3 satisfy K≤100.
+    Test cases 4-13 satisfy no additional constraints.
+
+    INPUT FORMAT (file swap.in):
+    The first line of input contains N and K. The second line contains A1 and A2, and the third contains B1 and B2.
+
+    OUTPUT FORMAT (file swap.out):
+    On the ith line of output, print the label of the ith cow from the left at the end of the exercise routine.
  */
 
 import java.io.*;

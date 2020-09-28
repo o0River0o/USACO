@@ -1,6 +1,6 @@
 
 /*
-ID: gyoushi1
+ID: *******
 LANG: JAVA
 TASK: ride
 */
