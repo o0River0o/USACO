@@ -1,8 +1,15 @@
 # USACO
 a repository that contains solutions for USACO problem solutions
 
-Visit my website for explaination: [Here](https://o0River0o.github.io/)
-Join our Discord server: [Here](https://discord.gg/bxrYFN9)
+[![MIT License](https://img.shields.io/github/license/o0River0o/USACO?style=for-the-badge)](https://github.com/o0River0o/USACO/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/o0River0o/USACO?style=for-the-badge)]()
+<br>
+[![Language Coverey](https://img.shields.io/github/languages/count/o0River0o/USACO?style=flat-square)]()
+[![Language Coverey](https://img.shields.io/github/languages/top/o0River0o/USACO?style=flat-square)]()
+<br>
+
+Join Our Discord Server:
+[![Discord](https://img.shields.io/discord/751524641507639448.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bxrYFN9)
 
 ## **Bronze Solutions**
 ### <u>2020</u>
