@@ -1,15 +1,12 @@
 # USACO
 a repository that contains solutions for USACO problem solutions
 
-[![MIT License](https://img.shields.io/github/license/o0River0o/USACO?style=for-the-badge)](https://github.com/o0River0o/USACO/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/o0River0o/USACO?style=for-the-badge)]()
-<br>
+[![MIT License](https://img.shields.io/github/license/o0River0o/USACO?style=flat-square)](https://github.com/o0River0o/USACO/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/o0River0o/USACO?style=flat-square)]()
 [![Language Coverey](https://img.shields.io/github/languages/count/o0River0o/USACO?style=flat-square)]()
 [![Language Coverey](https://img.shields.io/github/languages/top/o0River0o/USACO?style=flat-square)]()
 <br>
-
-Join Our Discord Server:
-[![Discord](https://img.shields.io/discord/751524641507639448.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/bxrYFN9)
+[![Discord](https://img.shields.io/discord/751524641507639448.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/bxrYFN9)
 
 ## **Bronze Solutions**
 ### <u>2020</u>
@@ -25,6 +22,6 @@ Join Our Discord Server:
 ## **Training Chapters**
 ### <u>Chapter 1</u>
 
-[2020 Feb Problem 1: Triangles](src/training/chapter1/yrishere/ride.java)
+[Problem 1: Your Ride is Here](src/training/chapter1/ride/ride.java)
 <br>
-[2020 Feb Problem 2: Mad Scientist](src/training/chapter1/gggiver/gift1.java)
+[Problem 2: Greedy Gift Giver](src/training/chapter1/gift1/gift1.java)

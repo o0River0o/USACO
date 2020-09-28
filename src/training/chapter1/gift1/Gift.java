@@ -7,7 +7,7 @@ TASK: gift1
 import java.io.*;
 import java.util.*;
 
-public class gift1 {
+public class Gift {
 
     public static void main(String[] args) throws IOException {
 
