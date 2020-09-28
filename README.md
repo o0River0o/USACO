@@ -15,6 +15,8 @@ a repository that contains solutions for USACO problem solutions
 <br>
 [2020 Jan Problem 2: Photoshoot](src/bronze/2020/Jan/Photoshoot/Photo.java)
 <br>
+[2020 Jan Problem 3: Race](src/bronze/2020/Jan/Race/Race.java)
+<br>
 
 [2020 Feb Problem 1: Triangles](src/bronze/2020/Feb/Triangles/Triangles.java)
 <br>
