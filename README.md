@@ -11,10 +11,15 @@ a repository that contains solutions for USACO problem solutions
 ## **Bronze Solutions**
 ### <u>2020</u>
 
+[2020 Jan Problem 1: Word Processor](src/bronze/2020/Jan/Word-Processor/Word.java)
+<br>
+[2020 Jan Problem 2: Photoshoot](src/bronze/2020/Jan/Photoshoot/Photo.java)
+<br>
+
 [2020 Feb Problem 1: Triangles](src/bronze/2020/Feb/Triangles/Triangles.java)
 <br>
 [2020 Feb Problem 2: Mad Scientist](src/bronze/2020/Feb/Mad-Scientist/Breedflip.java) | 
-[<font color="#D2506F">Explaination</font>](https://o0river0o.github.io/posts/2020/0926/usaco-bronze-mad-scientist/)
+[Explaination](https://o0river0o.github.io/posts/2020/0926/usaco-bronze-mad-scientist/)
 <br>
 [2020 Feb Problem 3: Swapity Swap](src/bronze/2020/Feb/Mad-Scientist/Swap.java)
 <br>
