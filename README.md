@@ -32,3 +32,5 @@ a repository that contains solutions for USACO problem solutions
 [Problem 1: Your Ride is Here](src/training/chapter1/ride/ride.java)
 <br>
 [Problem 2: Greedy Gift Giver](src/training/chapter1/gift1/gift1.java)
+<br>
+[Problem 3: Friday the Thirteenth](src/training/chapter1/friday/friday.java)
