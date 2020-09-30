@@ -44,17 +44,17 @@ public class Gymnastics {
 
     K = Integer.parseInt(st.nextToken());
     N = Integer.parseInt(st.nextToken());
-    System.out.println(K + ":" + N);
+    // System.out.println(K + ":" + N);
 
     for(int i = 0; i <= K; ++i) {
-      System.out.println(i);
+      // System.out.println(i);
       String line = br.readLine();
       if(line != null) {
         st = new StringTokenizer(line);
         for (int j = 0; j < N; ++j) {
-          System.out.println(j);
+          // System.out.println(j);
           data[i][j] = Integer.parseInt(st.nextToken());
-          System.out.println("data["+i+"]"+"["+j+"]: " + data[i][j]);
+          // System.out.println("data["+i+"]"+"["+j+"]: " + data[i][j]);
         }
       }else {
         break;
@@ -66,7 +66,7 @@ public class Gymnastics {
     for(int a = 1; a <= N; ++a){
       for(int b = 1; b <= N; ++b){
         if(better(a,b) == K) res++;
-        System.out.println(a + ":" + b);
+        // System.out.println(a + ":" + b);
       }
     }
 
