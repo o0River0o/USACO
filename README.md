@@ -9,6 +9,12 @@ a repository that contains solutions for USACO problem solutions
 [![Discord](https://img.shields.io/discord/751524641507639448.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/bxrYFN9)
 
 ## **Bronze Solutions**
+### <u>2019</u>
+[2019 Dec Problem 1: Cow Gymnastics](src/bronze/2019/Dec/Cow-Gymnastics/Gymnastics.java)
+<br>
+[2019 Dec Problem 2: Where am I](src/bronze/2019/Dec/Where-am-I/Whereami.java)
+<br>
+
 ### <u>2020</u>
 
 [2020 Jan Problem 1: Word Processor](src/bronze/2020/Jan/Word-Processor/Word.java)
