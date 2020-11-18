@@ -1,5 +1,5 @@
 # USACO
-A repository that contains solutions for Competitive Programming Problem Solutions for USACO
+A repository that contains solutions for Competitive Programming Problem Solutions for USACO,
 Java and C++ solutions avaliable
 
 [![MIT License](https://img.shields.io/github/license/o0River0o/USACO?style=flat-square)](https://github.com/o0River0o/USACO/blob/master/LICENSE)
