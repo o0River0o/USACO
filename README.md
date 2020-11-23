@@ -14,6 +14,7 @@ Java and C++ solutions avaliable
 <br>
 [2019 Dec Problem 2: Where am I](USACO/bronze/2019/Dec/Where-am-I/)
 <br>
+[2019 Dec Problem 3: Livestock Lineup](USACO/bronze/2019/Dec/Livestock-Lineup/)
 
 #### <u>2020</u>
 
