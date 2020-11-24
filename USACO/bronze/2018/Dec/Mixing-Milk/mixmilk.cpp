@@ -7,15 +7,13 @@ using ll = long long;
 ifstream fin("mixmilk.in");
 ofstream fout("mixmilk.out");
 
-void pour(ll &c1, ll &m1, ll &c2, ll &m2)
-{
+void pour(ll &c1, ll &m1, ll &c2, ll &m2) {
   int amt = min(m1, c2 - m2);
   m1 -= amt;
   m2 += amt;
 }
 
-int main()
-{
+int main() {
   //c1 -> c2
   //c2 -> c3
   //c3 -> c1
@@ -38,8 +36,7 @@ int main()
   fin >> c3 >> m3;
 
   //Cycle 99 pour
-  for (ll i = 0; i < 33; i++)
-  {
+  for (ll i = 0; i < 33; i++) {
     pour(c1, m1, c2, m2);
     pour(c2, m2, c3, m3);
     pour(c3, m3, c1, m1);

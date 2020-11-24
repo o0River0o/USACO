@@ -30,8 +30,10 @@ Java and C++ solutions avaliable
 ## **Training Chapters**
 ### <u>Chapter 1</u>
 
-[1.1 Your Ride is Here](USACO/training/chapter1/ride/ride.java)
+[1.2.1 Your Ride is Here](USACO/training/chapter1/ride/ride.java)
 <br>
-[1.2 Greedy Gift Giver](USACO/training/chapter1/gift1/)
+[1.2.2 Greedy Gift Giver](USACO/training/chapter1/gift1/)
 <br>
-[1.3 Friday the Thirteenth](USACO/training/chapter1/friday/)
+[1.2.3 Friday the Thirteenth](USACO/training/chapter1/friday/)
+<br>
+[1.2.4 Broken Necklace](USACO/training/chapter1/beads)

@@ -30,6 +30,7 @@ class friday {
       }
 
       int res = 0;
+
       for(int day : days) {
         int weekDay = (beginDay + res + 12) % 7;
         counts[weekDay]++;
