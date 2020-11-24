@@ -1,5 +1,5 @@
 /*
-ID: gyoushi1
+ID: *******
 LANG: C++11
 TASK: beads
 */
