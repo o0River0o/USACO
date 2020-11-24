@@ -22,7 +22,10 @@ Java and C++ solutions avaliable
 <br>
 
 ### <u>2018-20219 Season</u>
-
+| Problem                                                                          | Score                     |
+|----------------------------------------------------------------------------------|---------------------------|
+| [2018 Dec Problem 1: Mixing Milk](USACO/bronze/2018/Dec/Mixing-Milk/)            | * * * * * * * * * *       |  
+| [2019 Jan Problem 1: Shell Game](USACO/bronze/2019/Jan/Shell-Game/)              | * * * * * * * * * *       |  
 
 ## **Training Chapters**
 ### <u>Chapter 1</u>
