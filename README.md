@@ -30,7 +30,7 @@ Java and C++ solutions avaliable
 ### <u>2015-2016 Season</u>
 | Problem                                                                          | Score                     |
 |----------------------------------------------------------------------------------|---------------------------|
-| [2015 Dec Problem 2: Speeding Ticket](USACO/bronze/2015/Dec/Speeding-Ticket)     | * * * * * * x * * *       |
+| [2015 Dec Problem 2: Speeding Ticket](USACO/bronze/2015/Dec/Speeding-Ticket)     | * * * * * * * * * *       |
 
 ## **Training Chapters**
 ### <u>Chapter 1</u>
