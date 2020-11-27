@@ -21,7 +21,7 @@ Java and C++ solutions avaliable
 | [2020 Feb Problem 3: Swapity Swap](USACO/bronze/2020/Feb/Swapity-Swap/)          | * * * * * * * * * * * * * |
 <br>
 
-### <u>2018-20219 Season</u>
+### <u>2018-2019 Season</u>
 | Problem                                                                          | Score                     |
 |----------------------------------------------------------------------------------|---------------------------|
 | [2018 Dec Problem 1: Mixing Milk](USACO/bronze/2018/Dec/Mixing-Milk/)            | * * * * * * * * * *       |  
