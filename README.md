@@ -27,6 +27,11 @@ Java and C++ solutions avaliable
 | [2018 Dec Problem 1: Mixing Milk](USACO/bronze/2018/Dec/Mixing-Milk/)            | * * * * * * * * * *       |  
 | [2019 Jan Problem 1: Shell Game](USACO/bronze/2019/Jan/Shell-Game/)              | * * * * * * * * * *       |  
 
+### <u>2015-2016 Season</u>
+| Problem                                                                          | Score                     |
+|----------------------------------------------------------------------------------|---------------------------|
+| [2015 Dec Problem 2: Speeding Ticket](USACO/bronze/2015/Dec/Speeding-Ticket)     | * * * * * * x * * *       |
+
 ## **Training Chapters**
 ### <u>Chapter 1</u>
 
