@@ -7,7 +7,7 @@ using ll = long long;
 ifstream fin("race.in");
 ofstream fout("race.out");
 int K, N;
-int current_speed, current_distancee;
+int current_speed;
 
 int check(ll dist) {
   ll minSpeed;
