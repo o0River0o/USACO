@@ -1,4 +1,5 @@
 # Java File
 *.class
 
-speeding.cpp
+# Output File
+*.out
