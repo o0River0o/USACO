@@ -8,8 +8,8 @@ Java and C++ solutions avaliable
 
 ## **Bronze Solutions**
 ### <u>2019-2020 Season</u>
-| Problem                                                                          | Score                     |
-|----------------------------------------------------------------------------------|---------------------------|
+| Problem                                                                               | Score                     |
+|---------------------------------------------------------------------------------------|---------------------------|
 | [2019 Dec Problem 1: Cow Gymnastics](USACO/bronze/2019-2020/Dec/Cow-Gymnastics/)      | * * * * * * * * * *       |  
 | [2019 Dec Problem 2: Where am I](USACO/bronze/2019-2020/Dec/Where-am-I/)              | * * * * * * * * * *       |
 | [2019 Dec Problem 3: Livestock Lineup](USACO/bronze/2019-2020/Dec/Livestock-Lineup/)  | * * * * * * * * * *       |
@@ -24,13 +24,13 @@ Java and C++ solutions avaliable
 ### <u>2018-2019 Season</u>
 | Problem                                                                          | Score                     |
 |----------------------------------------------------------------------------------|---------------------------|
-| [2018 Dec Problem 1: Mixing Milk](USACO/bronze/2018-2019/Dec/Mixing-Milk/)            | * * * * * * * * * *       |  
-| [2019 Jan Problem 1: Shell Game](USACO/bronze/2018-2019/Jan/Shell-Game/)              | * * * * * * * * * *       |  
+| [2018 Dec Problem 1: Mixing Milk](USACO/bronze/2018-2019/Dec/Mixing-Milk/)       | * * * * * * * * * *       |  
+| [2019 Jan Problem 1: Shell Game](USACO/bronze/2018-2019/Jan/Shell-Game/)         | * * * * * * * * * *       |  
 
 ### <u>2015-2016 Season</u>
-| Problem                                                                          | Score                     |
-|----------------------------------------------------------------------------------|---------------------------|
-| [2015 Dec Problem 2: Speeding Ticket](USACO/bronze/2015-2016/Dec/Speeding-Ticket/)     | * * * * * * * * * *       |
+| Problem                                                                             | Score                     |
+|-------------------------------------------------------------------------------------|---------------------------|
+| [2015 Dec Problem 2: Speeding Ticket](USACO/bronze/2015-2016/Dec/Speeding-Ticket/)  | * * * * * * * * * *       |
 
 ## **Training Chapters**
 ### <u>Chapter 1</u>
