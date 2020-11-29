@@ -1,6 +1,6 @@
 # USACO
 A repository that contains solutions for Competitive Programming Problem Solutions for USACO,
-Java and C++ solutions avaliable
+Java and C++ solutions avaliabl
 
 [![MIT License](https://img.shields.io/github/license/o0River0o/USACO?style=flat-square)](https://github.com/o0River0o/USACO/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/o0River0o/USACO?style=flat-square)]()
@@ -34,6 +34,7 @@ Java and C++ solutions avaliable
 ### <u>2015-2016 Season</u>
 | Problem                                                                             | Score                     |
 |-------------------------------------------------------------------------------------|---------------------------|
+| [2015 Dec Problem 1: Fence Painting](USACO/bronze/2015-2016/Dec/Fence-Painting/)    | * * * * * * * * * *       |
 | [2015 Dec Problem 2: Speeding Ticket](USACO/bronze/2015-2016/Dec/Speeding-Ticket/)  | * * * * * * * * * *       |
 
 ## **Training Chapters**
