@@ -19,13 +19,17 @@ Java and C++ solutions avaliable
 | [2020 Feb Problem 1: Triangles](USACO/bronze/2019-2020/Feb/Triangles/)                | * * * * * * * * * *       |  
 | [2020 Feb Problem 2: Mad Scientist](USACO/bronze/2019-2020/Feb/Mad-Scientist/)        | * * * * * * * * * *       |
 | [2020 Feb Problem 3: Swapity Swap](USACO/bronze/2019-2020/Feb/Swapity-Swap/)          | * * * * * * * * * * * * * |
-<br>
 
 ### <u>2018-2019 Season</u>
 | Problem                                                                          | Score                     |
 |----------------------------------------------------------------------------------|---------------------------|
 | [2018 Dec Problem 1: Mixing Milk](USACO/bronze/2018-2019/Dec/Mixing-Milk/)       | * * * * * * * * * *       |  
 | [2019 Jan Problem 1: Shell Game](USACO/bronze/2018-2019/Jan/Shell-Game/)         | * * * * * * * * * *       |  
+
+### <u>2017-2018 Season</u>
+| Problem                                                                              | Score                     |
+|--------------------------------------------------------------------------------------|---------------------------|
+| [2017 Dec Problem 2: The Bovine Shuffle](USACO/bronze/2017-2018/Dec/Bovine-Shuffle/) | * * * * * * * * * *       |  
 
 ### <u>2015-2016 Season</u>
 | Problem                                                                             | Score                     |
