@@ -1,5 +1,11 @@
-# Java File
+# Java Compiled
 *.class
+
+# C++ Compiled
+*.0
+
+# Vim 
+*.swp
 
 # Output File
 *.out
