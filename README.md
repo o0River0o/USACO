@@ -29,7 +29,16 @@ Java and C++ solutions avaliabl
 ### <u>2017-2018 Season</u>
 | Problem                                                                              | Score                     |
 |--------------------------------------------------------------------------------------|---------------------------|
+| [2017 Dec Problem 1: Blocked Billboard](USACO/bronze/2017-2018/Dec/Blocked-Billboard/) | * * * * * * * * * *       |
 | [2017 Dec Problem 2: The Bovine Shuffle](USACO/bronze/2017-2018/Dec/Bovine-Shuffle/) | * * * * * * * * * *       |  
+
+### <u>2016-2017 Season</u>
+| Problem                                                                          | Score                     |
+|----------------------------------------------------------------------------------|---------------------------|
+| [2016 Dec Problem 1: Square Pasture](USACO/bronze/2016-2017/Dec/Square-Pasture/) | * * * * * * * * * *       |  
+| [2016 Dec Problem 2: Block Game](USACO/bronze/2016-2017/Dec/Block-Game/)         | * * * * * * * * * *       | 
+| [2016 Dec Problem 3: The Cow Signal](USACO/bronze/2016-2017/Dec/Cow-Signal/)     | * * * * * * * * * *       | 
+| [2017 Open Problem 1: The Lost Cow](USACO/bronze/2016-2017/Open/The-Lost-Cow/)   | * * * * * * * * * *       | 
 
 ### <u>2015-2016 Season</u>
 | Problem                                                                             | Score                     |
